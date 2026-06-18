@@ -21,10 +21,10 @@ Describe objective of this lab project
 |Reference #    |                  Content              |
 |--------------|----------------------------------------|
 |Ref.1         | Downloading & installing Virtual Box   |
-|Ref.2         | Detailed Dissection                    |
-|Ref.3         | Log Page 1                             |
-|Ref.4         | Log Page 2                             |
-|Ref.5         | DoS Attack Prevention (Continuing My Education)                        |
+|Ref.2         | Describe                    |
+|Ref.3         | describe                            |
+|Ref.4         | describe                             |
+|Ref.5         | describe                        |
 <br>
 
 ## Analysis
