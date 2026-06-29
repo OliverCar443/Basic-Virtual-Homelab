@@ -10,14 +10,13 @@ Describe objective of this lab project
 <br>
 
 ## Tools Used
-- MacOs (Main Operating System)
+- Microsoft Windows 11 (Main Operating System)
 - Virtual Box (Type 2 Hypervisor)
-- Microsoft Windows 11
 - Kali (Linux)
 - Ubuntu (Linux)
 <br>
 
-## Guide
+## Steps
 |Reference #    |                  Content              |
 |--------------|----------------------------------------|
 |Ref.1         | Downloading & installing Virtual Box   |
