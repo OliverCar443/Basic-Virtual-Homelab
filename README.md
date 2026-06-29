@@ -17,7 +17,7 @@ Describe objective of this lab project
 - Ubuntu (Linux)
 <br>
 
-## Steps
+## Guide
 |Reference #    |                  Content              |
 |--------------|----------------------------------------|
 |Ref.1         | Downloading & installing Virtual Box   |
