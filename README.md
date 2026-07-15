@@ -27,14 +27,15 @@ The objective of this virtual cybersecurity homelab is to develop and strengthen
 <br>
 
 ## Tools Used
-- Microsoft Windows 11 (Main Operating System)
+- Microsoft Windows 11 (Primary O/S)
 - Virtual Box (Type 2 Hypervisor)
 - Kali Linux
 - Ubuntu
 - Windows 11
 - Windows Server 2025
-- Metasploitable 2
+- Metasploitable 2 
 - WAZUH
+- SIEM
 <br>
 
 ## Steps
