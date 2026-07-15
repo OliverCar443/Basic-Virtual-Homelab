@@ -1,4 +1,4 @@
-# Virtual Cybersecurity Homelab Environment🔎🛡️💻
+# Virtual Cybersecurity Homelab Environment🔎💻🛡️🌎
 
 ## Objective
 The objective of this virtual cybersecurity homelab is to develop and strengthen my hands on blueteam and SOC analyst skills by simulating real world enterprise environments. This lab will be used to practice system administration, operating system hardening, log collection, security monitoring, threat detection,pentesting, and incident investigation in a safe and controlled sandbox environment.
