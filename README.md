@@ -1,22 +1,22 @@
-# Basic Virtual Homelab
+# Virtual Cybersecurity Homelab Environment🔎🛡️💻
 
 ## Objective
 The objective of this virtual cybersecurity homelab is to develop and strengthen my hands on blueteam and SOC analyst skills by simulating real world enterprise environments. This lab will be used to practice system administration, operating system hardening, log collection, security monitoring, threat detection,pentesting, and incident investigation in a safe and controlled sandbox environment.
 <br>
 
-## Skills Learned
-<ins> <u> **Part 1** </u> </ins>
+## Project & Skills Learned
+<ins> <u> **Part 1/3** </u> </ins> **:  Sandbox Installation**
 - Built and managed a virtualized cybersecurity lab using VMware/VirtualBox.
 - Installed and configured operating systems within an isolated virtual environment based on security learning objectives.
 - Confgured virtual hardware resources including CPU, memory, and storage.
 - Implemented operating system and network hardening to reduce the attack surface.
 
-<ins> <u> **Part 2** </u> </ins>
+<ins> <u> **Part 2/3** </u> </ins> **:  Environment Configuration**
 - Performed initial system setup, updates, configuration management, and network adapter setup.
 - Configured and managed network services and connectivity within a segmented virtual environment.
 - Developed foundational skills in infrastructure deployment, security operations, and system management
 
-<ins> <u> **Part 3** </u> </ins>
+<ins> <u> **Part 3/3** </u> </ins> **:  Attack, Defend, Analyze**
 - Verified communication between systems and security monitoring tools.
 - Applied Defense-in-depth principles by integrating firewalls, IDS, SIEM, and system hardening controls into a centralized monitoring environment.
 - Conducted vulnerability assessments against intentionally vulnerable systems in a controlled environment.
@@ -33,7 +33,7 @@ The objective of this virtual cybersecurity homelab is to develop and strengthen
 - Ubuntu
 - Windows 11
 - Windows Server 2025
-- Metasploitable
+- Metasploitable 2
 - WAZUH
 <br>
 
