@@ -5,7 +5,7 @@ The objective of this virtual cybersecurity homelab is to develop and strengthen
 <br>
 
 ## Project & Skills Learned
-<ins> <u> **Part 1/3** </u> </ins> **:  Sandbox Installation**
+<ins> <u> **Part 1/3** </u> </ins> **:  Virtual Machine Installation**
 - Built and managed a virtualized cybersecurity lab using VMware/VirtualBox.
 - Installed and configured operating systems within an isolated virtual environment based on security learning objectives.
 - Confgured virtual hardware resources including CPU, memory, and storage.
