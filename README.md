@@ -7,7 +7,7 @@ The objective of this virtual cybersecurity homelab is to develop and strengthen
 <br>
 
 ## Project & Skills Learned
-<ins> <u> **Part 1** </u> </ins> **:  <a href="https://github.com/OliverCar443/Basic-Virtual-Homelab">Virtual Machine Installation</a>**
+<ins> <u> **Part 1** </u> </ins> **:  <a href="https://github.com/OliverCar443/Virtual-Machine-Installation/blob/main/README.md">Virtual Machine Installation</a>**
 - Built and managed a virtualized cybersecurity lab using VMware/VirtualBox/Hyper-V (Type 2 Hypervisors).
 - Configured operating systems within an isolated virtual environment based on multiple security learning objectives.
   
@@ -45,7 +45,7 @@ The objective of this virtual cybersecurity homelab is to develop and strengthen
 ## Guide
 |Project    |                  Content              |
 |--------------|----------------------------------------|
-|Part 1         |<a href="https://github.com/OliverCar443/Basic-Virtual-Homelab">Virtual Machine Installation</a>   |
+|Part 1         |<a href="https://github.com/OliverCar443/Virtual-Machine-Installation/blob/main/README.md">Virtual Machine Installation</a>   |
 |Part 2         | Environment Configuration                    |
 |Part 3         | Security Operations                            |
 
