@@ -2,10 +2,12 @@
 
 ## Objective
 The objective of this virtual cybersecurity homelab is to develop and strengthen my hands on blueteam and SOC analyst skills by simulating real world enterprise environments. This lab will be used to practice system administration, system hardening, log collection, security monitoring, threat detection,pentesting, and incident investigation, in a safe, controlled, and legal, sandbox environment.
+
+<br>
 <br>
 
 ## Project & Skills Learned
-<ins> <u> **Part 1** </u> </ins> **:  Virtual Machine Installation**
+<ins> <u> **Part 1** </u> </ins> **:  <a href="https://github.com/OliverCar443/Basic-Virtual-Homelab">Virtual Machine Installation</a>**
 - Built and managed a virtualized cybersecurity lab using VMware/VirtualBox/Hyper-V (Type 2 Hypervisors).
 - Configured operating systems within an isolated virtual environment based on multiple security learning objectives.
   
@@ -40,14 +42,13 @@ The objective of this virtual cybersecurity homelab is to develop and strengthen
 - SIEM
 <br>
 
-## Steps
-|Reference #    |                  Content              |
+## Guide
+|Project    |                  Content              |
 |--------------|----------------------------------------|
-|Ref.1         | Downloading & installing Virtual Box   |
-|Ref.2         | Describe                    |
-|Ref.3         | describe                            |
-|Ref.4         | describe                             |
-|Ref.5         | describe                        |
+|Part 1         |<a href="https://github.com/OliverCar443/Basic-Virtual-Homelab">Virtual Machine Installation</a>   |
+|Part 2         | Environment Configuration                    |
+|Part 3         | Security Operations                            |
+
 <br>
 
 <br>
