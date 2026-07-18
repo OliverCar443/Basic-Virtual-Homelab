@@ -5,16 +5,20 @@ The objective of this virtual cybersecurity homelab is to develop and strengthen
 <br>
 
 ## Project & Skills Learned
-<ins> <u> **Part 1/3** </u> </ins> **:  Virtual Machine Installation**
+<ins> <u> **Part 1** </u> </ins> **:  Virtual Machine Installation**
 - Built and managed a virtualized cybersecurity lab using VMware/VirtualBox/Hyper-V (Type 2 Hypervisors).
 - Configured operating systems within an isolated virtual environment based on multiple security learning objectives.
+  
+<br>
 
-<ins> <u> **Part 2/3** </u> </ins> **:  Environment Configuration**
+<ins> <u> **Part 2** </u> </ins> **:  Environment Configuration**
 - Confgured virtual hardware resources including CPU, memory, and storage.
 - Performed systems setup, updates, configuration management, and network adapter/connectivity setup.
 - Developed foundational skills in infrastructure deployment, security operations, and system management.
 
-<ins> <u> **Part 3/3** </u> </ins> **: Security Operations (Attack, Defend, Analyze)**
+<br>
+
+<ins> <u> **Part 3** </u> </ins> **: Security Operations (Attack, Defend, Analyze)**
 - Verified communication between systems and security monitoring tools.
 - Applied Defense-in-depth principles by integrating firewalls, IDS, SIEM, and system hardening controls into a centralized monitoring environment.
 - Conducted vulnerability assessments against intentionally vulnerable systems in a controlled environment.
